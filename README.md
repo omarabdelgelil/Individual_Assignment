@@ -18,4 +18,4 @@ Therefore the following ML models were used:
 2. Random Forrest
 3. XGBoost
 4. Support Vector Machine
-5. Linear Discriminant Analysis
+5. Linear Discriminant Analysis,
